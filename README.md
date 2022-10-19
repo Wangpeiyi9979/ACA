@@ -23,7 +23,7 @@ We construct 5 CRE task sequences in both FewRel and TACRED the same as [RP-CRE]
 
 
 # Backbone CRE Models
-Because our proposed ACA is orthogonal to previous work, we adopt ACA to $2$ strong CRE baselines,  [EMAR](https://aclanthology.org/2020.acl-main.573/) and [RP-CRE](https://aclanthology.org/2021.acl-long.20/).
+Because our proposed ACA is orthogonal to previous work, we adopt ACA to $2$ strong CRE baselines,  [EMAR](https://aclanthology.org/2020.acl-main.573/) and [RP-CRE](https://aclanthology.org/2021.acl-long.20/). Note that the original EMAR was based on a Bi-LSTM encoder, and we re-implement EMAR with BERT.
 
 # Run
 ```
