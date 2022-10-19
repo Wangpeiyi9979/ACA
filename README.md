@@ -18,7 +18,7 @@ We use two datasets in our experiments, `FewRel` and `TACRED`:
 - FewRel: `data/data_with_marker.json`
 - TACRED: `data/data_with_marker_tacred.json`
 
-We construct the $5$ CRE task sequences in both FewRel and TACRED the same as [RP-CRE](https://aclanthology.org/2021.acl-long.20/) and [CRL](https://aclanthology.org/2022.findings-acl.268/).
+We construct 5 CRE task sequences in both FewRel and TACRED the same as [RP-CRE](https://aclanthology.org/2021.acl-long.20/) and [CRL](https://aclanthology.org/2022.findings-acl.268/).
 
 
 
